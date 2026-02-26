@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Unbounded', 'Outfit' sans-serif;
+    background-color: #FDF7F0;
+    margin: 0;
+}
+
+.ban-txt h1 {
+    font-family: 'unbounded';
+    font-weight: 600;
+    color: #8B2E2E;
+}
+
+a.btn.btn-lg.active {
+    background-color: #8B2E2E;
+    color: #FFFFFF;
+    font-family: 'Outfit';
+    font-size: 16px;
+    font-weight: 300;
+}
+
+.ban-txt p {
+    font-family: 'Outfit';
+}
+
+.ban-txt {
+    padding-top: 150px;
+}
+
+.image img {
+    width: 500px;
+    height: auto;
+
+}
